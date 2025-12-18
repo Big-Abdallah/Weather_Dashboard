@@ -1,16 +1,20 @@
-# React + Vite
+🌦️ مشروع جديد: لوحة الطقس باستخدام React.js!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+فخور بمشاركة آخر مشاريعي وهو Weather Dashboard الذي يعرض لك الطقس الحالي وتوقعات الأيام القادمة بطريقة سهلة وجذابة.
+المميزات:
 
-Currently, two official plugins are available:
+البحث عن أي مدينة حول العالم وعرض الطقس الحالي.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+عرض درجة الحرارة، الإحساس بالحرارة، الرطوبة، سرعة الرياح، الضغط، والرؤية.
 
-## React Compiler
+توقعات الطقس لمدة 5 أيام مع أيقونات جذابة تعكس حالة الطقس.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+تصميم متجاوب وجميل باستخدام Tailwind CSS.
 
-## Expanding the ESLint configuration
+تم استخدام API مجاني من wttr.in بدون الحاجة لمفتاح API.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+يمكنكم تجربة المشروع هنا: [ضع رابط مشروعك هنا]
+
+دائماً أحب تجربة تقنيات جديدة وتحويل الأفكار لمشاريع عملية!
+
+لو تحب أقدر أعمل نسخة مختصرة وجذابة جدًا للـ README أو لينكد إن عشان تشد الانتباه بسرعة.
