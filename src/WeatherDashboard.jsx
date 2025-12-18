@@ -14,7 +14,7 @@ import {
 } from "lucide-react";
 
 const WeatherDashboard = () => {
-  const [city, setCity] = useState("Cairo");
+  const [city, setCity] = useState("Dekernes");
   const [searchInput, setSearchInput] = useState("");
   const [weather, setWeather] = useState(null);
   const [forecast, setForecast] = useState([]);
@@ -175,12 +175,12 @@ const WeatherDashboard = () => {
           <p className="text-xl mb-4">{error}</p>
           <button
             onClick={() => {
-              setSearchInput("Cairo");
-              fetchWeather("Cairo");
+              setSearchInput("Dekernes");
+              fetchWeather("Dekernes");
             }}
             className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-blue-50 transition"
           >
-            العودة للقاهرة
+          العودة دكرنس
           </button>
         </div>
       </div>
